@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <section xml:id="LE1" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Linear Systems, Vector Equations, and Augmented Matrices (LE1)</title>
+    <title>Linear Systems, Vector Equations, and Augmented Matrices (LE1) 
+        as edited by William Starling, Kylar Russell, Jessie Guy, Caleb Stanford, 
+        Mina Dang, and Jaime Addison.</title>
     <objectives>
         <ul>
             <li>
@@ -442,6 +444,23 @@ All inconsistent linear systems contain a logical <term>contradiction</term>.
             <md>
             <mrow>
   -x_1+2x_2  &amp;=  5
+                </mrow>
+                <mrow>
+  2x_1-4x_2  &amp;=  6
+                </mrow>
+            </md>
+        </statement>
+    </activity>
+
+    <activity estimated-time="10">
+        <statement>
+            <p>
+This activity is the same type of problem as the above one. 
+Please complete it as well.
+            </p>
+            <md>
+            <mrow>
+  -7x_1+2x_2  &amp;=  1
                 </mrow>
                 <mrow>
   2x_1-4x_2  &amp;=  6

@@ -3,8 +3,8 @@ load("../sage/common.sage")
 class Generator(BaseGenerator):
     def data(self):
         # create a 3x5,4x4,5x3 matrix
-        rows = randrange(3,6)
-        columns = 8-rows
+        rows = randrange(3,5)
+        columns = 7-rows
 
         #start with nice RREF
         max_number_of_pivots = min(rows,columns-1)
